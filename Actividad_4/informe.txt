@@ -1,3 +1,6 @@
+## Actividad 4
+https://github.com/tematres/duct-2026-actividades
+
 1. ¿Qué pasa si se quita .lower() de analizador.py?
 Si se quita el comando que normaliza las cadenas a minúsculas y se proporiconan argumentos como "Sol", "SOL","sol" la prueba de igualdad va a dar falso porque las 3 cadenas no serían iguales. Por esta razón el pytest devolverá "FAILED".
 
