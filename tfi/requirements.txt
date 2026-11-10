@@ -1,0 +1,3 @@
+# Dependencias de ejecución de analizador.py
+# (las librerías argparse, sys y string son parte de la stdlib de Python 3)
+matplotlib>=3.5,<4.0
